@@ -1,7 +1,7 @@
 # Hotel Price Prediction Model (World Cup Scenario)
 
 ## 📌 Overview
-This project develops a machine learning model to predict hotel prices based on factors related to major events such as the World Cup. The model analyzes how variables like distance to stadium, hotel rating, and booking timing influence pricing.
+This project develops a machine learning model to predict hotel prices based on factors related to major events such as the World Cup. The model analyzes how variables like distance to stadium, hotel rating, and booking timing influence pricing. The project aims to demonstrate how machine learning can be applied to real-world pricing scenarios.
 
 ## ⚙️ Tools & Technologies
 - Python
@@ -16,9 +16,9 @@ This project develops a machine learning model to predict hotel prices based on 
 - Days before match
 
 ## 🤖 Model
-A Linear Regression model was applied to identify relationships between variables and predict hotel prices.
+A Linear Regression model was applied to model relationships between features and predict hotel prices.
 
-## 🔍 Key Steps
+## 🔍 Workflow
 - Data loading and preprocessing
 - Feature selection
 - Model training using Linear Regression
@@ -26,13 +26,17 @@ A Linear Regression model was applied to identify relationships between variable
 - Data visualization to analyze relationships
 
 ## 📈 Results
-The model successfully demonstrates how key factors influence hotel pricing trends during high-demand events.
+The model demonstrates how key factors influence hotel pricing trends during high-demand events. The model can be used to generate price predictions for new input scenarios.
 
 ## 📷 Visualizations
 The project includes:
 - Distance vs Price analysis
 - Star Rating vs Price analysis
 - Days Before Match vs Price analysis
+
+## 📁 Project Structure
+- hotel_price_model.py – Main model and analysis script  
+- hoteldetail.csv – Dataset used for training
 
 ## 🚀 Future Improvements
 - Use real-world datasets
