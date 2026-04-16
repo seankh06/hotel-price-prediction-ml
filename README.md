@@ -1,4 +1,4 @@
-# Hotel Price Prediction Model (World Cup Scenario)
+<img width="1468" height="496" alt="Screenshot 2026-04-16 at 20 24 29" src="https://github.com/user-attachments/assets/23ca6ef2-6044-43aa-a4e0-892c344875b0" /># Hotel Price Prediction Model (World Cup Scenario)
 
 ## 📌 Overview
 This project develops a machine learning model to predict hotel prices based on factors related to major events such as the World Cup. The model analyzes how variables like distance to stadium, hotel rating, and booking timing influence pricing.
@@ -47,3 +47,7 @@ You can modify the input values to predict hotel prices under different conditio
 new_distance = 0.5
 new_star_rating = 5
 new_days_before_match = 1
+
+## 📊 Example Output
+
+![Visualization]![Uploading Screenshot 2026-04-16 at 20.24.29.png…]
